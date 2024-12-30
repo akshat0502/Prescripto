@@ -10,6 +10,7 @@
   <li>
     <b>Set Up a React Project:</b>
     <p>Use <code>create-react-app</code> to set up your React project:</p>
+    <pre><code>npx create-react-app doctor-booking</code></pre>
   </li>
 </ol>
 
