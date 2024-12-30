@@ -1,5 +1,6 @@
 <h1><a href="https://prescripto-lime.vercel.app/">Prescripto</a></h1>
 <h1>Doctor Appointment Booking Website Using React</h1>
+<p>This guide explains how to create and run a React-based frontend for a Doctor Appointment Booking website with features like listing doctors by specialty.</p>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
