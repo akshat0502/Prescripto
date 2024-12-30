@@ -14,6 +14,7 @@
   </li>
   <li>
     <b>Navigate to the Project Directory:</b>
+    <pre><code>cd doctor-booking</code></pre>
   </li>
 </ol>
 
