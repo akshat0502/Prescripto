@@ -16,6 +16,9 @@
     <b>Navigate to the Project Directory:</b>
     <pre><code>cd doctor-booking</code></pre>
   </li>
+  <li>
+    <b>Start the Development Server:</b>
+  </li>
 </ol>
 
 
