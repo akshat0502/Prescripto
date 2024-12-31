@@ -18,6 +18,7 @@
   </li>
   <li>
     <b>Start the Development Server:</b>
+    <pre><code>npm start</code></pre>
   </li>
 </ol>
 
