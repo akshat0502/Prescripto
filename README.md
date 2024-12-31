@@ -21,6 +21,9 @@
     <pre><code>npm start</code></pre>
     <p>This will open the app in your default web browser at <code>http://localhost:3000</code>.</p>
   </li>
+  <li>
+    <b>Build the Appointment Booking Website:</b>
+  </li>
 </ol>
 
 
