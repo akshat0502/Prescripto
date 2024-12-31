@@ -23,6 +23,7 @@
   </li>
   <li>
     <b>Build the Appointment Booking Website:</b>
+    <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
   </li>
 </ol>
 
