@@ -24,14 +24,18 @@
   <li>
     <b>Build the Appointment Booking Website:</b>
     <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
+    <ul>
+      <li>Homepage</li>
+      <li>Doctor Listing by Specialty</li>
+      <li>Doctor Profile and Appointment Slots</li>
+      <li>Booking Form</li>
+      <li>Confirmation Page</li>
+    </ul>
   </li>
-  <ul>
-    <li>Homepage</li>
-    <li>Doctor Listing by Specialty</li>
-    <li>Doctor Profile and Appointment Slots</li>
-    <li>Booking Form</li>
-    <li>Confirmation Page</li>
-  </ul>
+  <li>
+    <b>Fetch Doctor Data:</b>
+    <p>Use mock data or integrate with an API to fetch doctor information, specialties, and availability.</p>
+  </li>
 </ol>
 
 
