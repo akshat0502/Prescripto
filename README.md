@@ -25,6 +25,13 @@
     <b>Build the Appointment Booking Website:</b>
     <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
   </li>
+  <ul>
+    <li>Homepage</li>
+    <li>Doctor Listing by Specialty</li>
+    <li>Doctor Profile and Appointment Slots</li>
+    <li>Booking Form</li>
+    <li>Confirmation Page</li>
+  </ul>
 </ol>
 
 
