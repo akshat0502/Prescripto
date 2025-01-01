@@ -35,6 +35,9 @@
   <li>
     <b>Fetch Doctor Data:</b>
     <p>Use mock data or integrate with an API to fetch doctor information, specialties, and availability.</p>
+    <pre><code>fetch('https://api.example.com/doctors')
+  .then(response => response.json())
+  .then(data => console.log(data));</code></pre>
   </li>
 </ol>
 
