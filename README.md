@@ -60,6 +60,7 @@
 <h2>Tips:</h2>
 <ul>
   <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> or <a href="https://ant.design/" target="_blank">Ant Design</a> for pre-designed UI components.</li>
+  <li>Implement form validation for appointment booking using libraries like <a href="https://react-hook-form.com/" target="_blank">React Hook Form</a>.</li>
 </ul>
 
 <br /> <hr/>
