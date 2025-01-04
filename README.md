@@ -1,6 +1,8 @@
 <h1><a href="https://prescripto-lime.vercel.app/">Prescripto</a></h1>
 <h1>Doctor Appointment Booking Website Using React</h1>
-<p>This guide explains how to create and run a React-based frontend for a Doctor Appointment Booking website with features like listing doctors by specialty.</p>
+<p>
+  Prescripto is a web application built with React.js, designed to simplify the process of booking doctor appointments. It offers a responsive and intuitive user interface, ensuring seamless navigation across devices.
+</p>
 <h2>Steps to Run the React App:</h2>
 <ol>
   <li>
