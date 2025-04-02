@@ -2,8 +2,8 @@
 <h1>Doctor Appointment Booking Website Using React</h1>
 <ol>
   <li>Prescripto is a web application built with React.js, designed to simplify the process of booking doctor appointments. It offers a responsive and intuitive user interface, ensuring seamless navigation across devices.</li>
+  <li>Users can search for doctors based on their specialization, location, and availability. Detailed doctor profiles help patients make informed decisions, while booking, rescheduling, or canceling appointments is effortless.</li>
 </ol>
-<p>Users can search for doctors based on their specialization, location, and availability. Detailed doctor profiles help patients make informed decisions, while booking, rescheduling, or canceling appointments is effortless.</p>
 <p>
   The platform includes secure user authentication, appointment reminders, and online payment integration for added convenience.
 
